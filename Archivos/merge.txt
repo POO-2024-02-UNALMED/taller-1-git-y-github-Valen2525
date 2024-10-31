@@ -1,1 +1,2 @@
 explicaremos que ocurrio con la carpeta archivos. ¿Por qu ́e ahora puedes crear un commit y subir la carpeta?
+1
