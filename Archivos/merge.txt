@@ -1,3 +1,1 @@
-explicaremos que ocurrio con la carpeta archivos. ¿Por qu ́e ahora puedes crear un commit y subir la carpeta?
-1
-2
+Al crear el archivo merge.txt dentro de la capeta archivos git puede rastrear esa carpeta y guardar el archivo en el repositorio
