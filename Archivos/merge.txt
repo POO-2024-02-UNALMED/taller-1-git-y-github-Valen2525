@@ -1,1 +1,2 @@
-Al crear el archivo merge.txt dentro de la capeta archivos git puede rastrear esa carpeta y guardar el archivo en el repositorio
+Al crear el archivo merge.txt dentro de la capeta archivos git puede rastrear esa carpeta 
+y guardar el archivo en el repositorio (GitHub no puede rastrear carpetas vacias)
