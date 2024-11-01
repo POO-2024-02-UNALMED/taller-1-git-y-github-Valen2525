@@ -6,5 +6,5 @@ Edad: 18
 Aspiraciones respecto a la materia: Aprender todo correctamente y hacer las cosas bien
 
 Es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones 
-ya que genera un conflicto, y cuando varias personas estan modificandoun mismo archivo no
+ya que genera un conflicto, y cuando varias personas estan modificando un mismo archivo no
 es productivo porque GitHub no puede decidir automaticamente cual conservar
