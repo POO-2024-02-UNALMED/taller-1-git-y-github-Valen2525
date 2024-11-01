@@ -1,3 +1,8 @@
+HEAD
 Nombre: Juanita 
 Edad: 18
 Aspiraciones respecto a la materia: Aprender todo correctamente y hacer las cosas bien
+
+Al crear el archivo merge.txt dentro de la capeta archivos git puede rastrear esa carpeta 
+y guardar el archivo en el repositorio (GitHub no puede rastrear carpetas vacias)
+ f5ec58c1b99d3ea6ede13509d6e3a4dda55f1d51
