@@ -1,9 +1,10 @@
-Al crear el archivo merge.txt dentro de la capeta archivos git puede rastrear esa carpeta 
+Porque al crear el archivo merge.txt dentro de la capeta archivos, git puede rastrear esa carpeta 
 y guardar el archivo en el repositorio (GitHub no puede rastrear carpetas vacias)
 
-Nombre: Juanita 
+Nombre: Juanita Valentina
 Edad: 18
-Aspiraciones respecto a la materia: Aprender todo correctamente y hacer las cosas bien
+Aspiraciones respecto a la materia: Aprender mucho y sacarle el mayor provecho a mis capacidades y al
+conocimiento que se me brindará a lo largo del curso
 
 Es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones 
 ya que genera un conflicto, y cuando varias personas estan modificando un mismo archivo no
